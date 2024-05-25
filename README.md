@@ -1,4 +1,4 @@
-## Oii! Eu sou a Mariana Christina
+## Oii! Eu sou a Mariana Christina ✨
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryChriss&show_icons=true&theme=omni)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryChriss&layout=compact&theme=omni)
