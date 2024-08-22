@@ -1,20 +1,35 @@
 ## hello, welcome to my profile! ✨ ✨
 
-<img  src="i.pinimg.com/originals/bf/d4/bb/bfd4bb1d9c46275debde227178855ab7.gif">
+<div  style="display: flex" align="center" >
+<img src="bfd4bb1d9c46275debde227178855ab7.gif" alt="Gif" width="650px"  >
+</div>
 
 #
 
+<b>Stats ✨</b>
+
+   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryChriss&show_icons=true&theme=omni)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryChriss&layout=compact&theme=omni)
 
 <div style="display: inline-block">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> 
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+  
+          
+          
 </div>
 
-<br>
+
+#
+
+
 <div> 
   <a href="https://www.instagram.com/mariana_christina_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=e36eb2" target="_blank"></a>
   <a href = "mailto:mariana.chris.cmf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=e36eb2" target="_blank"></a>
