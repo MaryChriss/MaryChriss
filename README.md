@@ -1,4 +1,4 @@
-## hello, welcome to my profile! ✨ ✨
+## hello, welcome to my profile! ✨
 
 <div  style="display: flex" align="center" >
 <img src="bfd4bb1d9c46275debde227178855ab7.gif" alt="Gif" width="650px"  >
@@ -35,4 +35,8 @@
   <a href = "mailto:mariana.chris.cmf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=e36eb2" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariana-fernandes-92690425a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e36eb2" target="_blank"></a> 
   
+</div>
+
+<div>
+   <img align="right" src="0c2885eeddccd12beee617c5bc4109b7.gif" height=100px/>
 </div>
