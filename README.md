@@ -1,4 +1,4 @@
-## hello, welcome to my profile! ✨
+## hii, welcome to my profile! ✨
 
 <div  style="display: flex" align="center" >
 <img src="bfd4bb1d9c46275debde227178855ab7.gif" alt="Gif" width="650px"  >
