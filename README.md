@@ -6,7 +6,7 @@
 
 #
 
-<b>Stats ✨</b>
+## Stats ✨
 
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryChriss&show_icons=true&theme=omni)
