@@ -6,24 +6,30 @@
 
 #
 
-**Stats ✨**
+  **Stats ✨**
 
-   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryChriss&show_icons=true&theme=omni)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryChriss&layout=compact&theme=omni)
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api?username=MaryChriss&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://nirzak-streak-stats.vercel.app/?user=MaryChriss&theme=radical&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryChriss&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+</div>
+
 
 <div style="display: inline-block" >
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> 
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  
+   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+   <img  align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+          
+          
           
           
 </div>
