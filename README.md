@@ -4,9 +4,7 @@
 <img src="bfd4bb1d9c46275debde227178855ab7.gif" alt="Gif" width="650px"  >
 </div>
 
-#
-
-  **Stats ✨**
+## Stats ✨
 
 <div align="center">
 
