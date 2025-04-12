@@ -48,3 +48,5 @@
 <div>
    <img align="right" src="0c2885eeddccd12beee617c5bc4109b7.gif" height=100px/>
 </div>
+
+![snake gif](https://github.com/MaryChriss/MaryChriss/blob/output/github-snake-dark.svg)
