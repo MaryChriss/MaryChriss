@@ -4,6 +4,17 @@
 <img src="bfd4bb1d9c46275debde227178855ab7.gif" alt="Gif" width="650px"  >
 </div>
 
+
+## 👩‍💻 About Me
+
+🔭 I’m currently working on: projetos na SciCrop como estagiária de desenvolvimento 🌱  
+👯 I’m looking to collaborate on: aplicações web usando JavaScript, Vue, Angular ou React  
+🤝 I’m looking for help with: arquitetura em nuvem e boas práticas com AWS  
+🌱 I’m currently learning: AWS, TypeScript, Vue e Angular  
+💬 Ask me about: desenvolvimento front-end, consumo de APIs e integração com backend  
+⚡ Fun fact: adoro o lado artístico — gosto de criar maquiagens criativas e explorar novas ideias visuais! 🎨💄
+
+
 ## Stats ✨
 
 <div align="center">
