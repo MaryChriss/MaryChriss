@@ -44,6 +44,7 @@
   <a href="https://www.linkedin.com/in/mariana-fernandes-92690425a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=e36eb2" target="_blank"></a> 
   
 </div>
+
 ![snake gif](https://github.com/MaryChriss/MaryChriss/blob/output/github-snake-dark.svg)
 
 <div>
