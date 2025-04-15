@@ -7,9 +7,9 @@
 
 ## 👩‍💻 About Me
 
-🔭 I’m currently working on: projetos na SciCrop como estagiária  🌱  
-🌱 I’m currently learning: AWS, TypeScript, Vue e Angular  
-⚡ Fun fact: adoro o lado artístico — gosto de criar maquiagens criativas e explorar novas ideias visuais! 🎨💄
+🔭  I’m currently working on: Projects at SciCrop as an intern 🌱
+🌱 I’m currently learning: AWS, TypeScript, Vue, and Angular
+⚡ Fun fact: I love the artistic side — I enjoy creating creative makeup looks and exploring new visual ideas! 🎨
 
 
 ## Stats ✨
