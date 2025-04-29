@@ -7,9 +7,9 @@
 
 ## 👩‍💻 About Me
 
-🔭  I’m currently working on: Projects at SciCrop as an intern 🌱
-🌱 I’m currently learning: AWS, TypeScript, Vue, and Angular
-⚡ Fun fact: I love the artistic side — I enjoy creating creative makeup looks and exploring new visual ideas! 🎨
+🔭  I’m currently working on: Projects at SciCrop as an intern 🌱 </br>
+🌱 I’m currently learning: AWS, TypeScript, Vue, and Angular </br>
+⚡ Fun fact: I love the artistic side — I enjoy creating creative makeup looks and exploring new visual ideas! 🎨 
 
 
 ## Stats ✨
