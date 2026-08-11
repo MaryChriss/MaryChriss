@@ -4,7 +4,7 @@
 <table border="0">
 <tr>
 <td valign="middle" align="center">
-<img height="200" src="pixel-art-ezgif.com-video-to-gif-converter.gif" alt="pixel acenando" />
+<img height="250" src="github-gif.gif" alt="pixel acenando" />
 </td>
 <td valign="middle" align="left">
 # Mariana
